@@ -31,9 +31,6 @@ end
 def sorted_matrix
   
       assembled_shelf = [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
-
-  
-  
   
 end
 
